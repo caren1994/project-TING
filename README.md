@@ -30,7 +30,7 @@ Python venv
 
 # Clone ou baixe o repositório
 ```bash
-
+git@github.com:caren1994/project-TING.git
 ```
 
 # Entre no diretório
