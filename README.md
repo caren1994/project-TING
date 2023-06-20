@@ -28,23 +28,23 @@ Git
 Python venv
 ```
 
-# Clone ou baixe o repositório
+### Clone ou baixe o repositório
 ```bash
 git@github.com:caren1994/project-TING.git
 ```
 
-# Entre no diretório
+### Entre no diretório
 
 ```bash
 cd tech-news
 ```
 
-# Crie o ambiente virtual
+### Crie o ambiente virtual
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
 ````
 
-# Instale as dependências
+### Instale as dependências
 ```bash
 python3 -m pip install -r dev-requirements.txt
 ```
